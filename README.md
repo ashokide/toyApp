@@ -1,4 +1,4 @@
 # Toycathon Hackathon 
 ## Toy App - A Kids Learning App
-#### Done with Flutter 
+#### Crafted with Flutter 
 #### Cloud : https://cloudinary.com/
